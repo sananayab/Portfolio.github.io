@@ -493,8 +493,9 @@ p {
 }
 
 #about .div-img-bg {
-  padding-bottom: 30px;
+  padding-bottom: 40px;
   border: 20px solid #b8a07e;
+  border-radius: 50%;
 }
 
 #about .div-img-bg .about-img img {
